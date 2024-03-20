@@ -41,6 +41,6 @@ if __name__ == '__main__':
     plt.hist(nums1, bins=200, alpha=0.5, label='fake')
     plt.xlabel('number of words')
     plt.ylabel('frequency')
-    plt.title('Word count of This experiment reviews texts(individual statistics)')
+    plt.title('Word count of This experiment comments texts')
     plt.legend()
     plt.show()
