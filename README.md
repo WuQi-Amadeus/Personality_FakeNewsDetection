@@ -8,6 +8,9 @@
 
 ./used_model/trans_model/: https://huggingface.co/liam168/trans-opus-mt-zh-en
 
+我也提供了上述三个模型的网盘链接：
+https://www.123pan.com/s/oW3Qjv-AqRQ.html
+
 此外，./saved-model/文件夹用于保存训练过的模型参数，这是我训练的模型参数：
 
 https://www.123pan.com/s/oW3Qjv-YLRQ.html
